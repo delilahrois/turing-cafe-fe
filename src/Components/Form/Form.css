@@ -1,0 +1,11 @@
+.rez-form {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  padding: 20px;
+}
+
+.text-input {
+  height: 20px;
+  padding: 5px;
+}
